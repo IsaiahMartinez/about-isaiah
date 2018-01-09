@@ -6,14 +6,14 @@
 	</head>
 	<body>
 		<h1>This Page Is All About Isaiah</h1>
-		<img src="" />
+		<img src="isaiahFunnyFace.jpg" alt = "my funny face" />
 		<p>I believe humor is the key to living a happy, healthy life</p>
 		<p>These are a <em>few</em> of the careers I have had:</p>
 		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>Aviation Maintenance Technician</li>
+			<li>Entitlement Program Director</li>
+			<li>Facilities Technologist</li>
+			<li>Lead Actor - Movie Pilot (Can't remember name)</li>
 		</ul>
 	</body>
 </html>
