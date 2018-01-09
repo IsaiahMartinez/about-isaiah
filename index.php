@@ -17,9 +17,9 @@
 		</ul>
 
 		<h2>My Family</h2>
-		<p>I'm the youngest of 2 brothers and 2 sisters. I have 1 kid who is 9 years old. He stays home alone while
-			I'm at bootcamp but he should be fine. I leave him with snacks and the Discovery Channel!</p>
-
+		<p>I'm the youngest of 2 brothers and 2 sisters. I have 1 kid who is 9 years old. His name is Manchito.
+			He stay home alone while I'm at bootcamp but he should be fine. I leave him with snacks and the
+			Discovery Channel!</p>
 		<h2>Extracurricular Activities</h2>
 		<p>I'm also the lead guitarist in a metal band.</p>
 	</body>
