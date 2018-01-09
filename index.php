@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>This Page Is All About Isaiah</h1>
-		<img src="isaiahFunnyFace.jpg" alt = "my funny face" />
+		<img src="isaiahfunnyface.jpg" alt = "my funny face" />
 		<p>I believe humor is the key to living a happy, healthy life</p>
 		<p>These are a <em>few</em> of the careers I have had <strong>(none of which were humorous)</strong>:</p>
 		<ul>
